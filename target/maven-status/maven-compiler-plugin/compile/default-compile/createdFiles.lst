@@ -1,0 +1,6 @@
+com/microservice/vat/controller/VATRateController.class
+com/microservice/vat/dto/VATRate.class
+com/microservice/vat/MicroserviceVatApplication.class
+com/microservice/vat/config/GlobalConfig.class
+com/microservice/vat/service/VATRateService.class
+com/microservice/vat/service/impl/VATRateServiceImpl.class
